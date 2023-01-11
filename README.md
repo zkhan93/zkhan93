@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Software Engineer with over five years of experience at companies such as Morgan Stanley, Amadeus Software Labs, and J.P. Morgan Chase. I have a strong foundation in computer science principles and a broad range of technical skills. I am passionate about using technology to improve people's lives and am dedicated to continuous learning and personal growth.
+I am a Software Engineer with over five years of experience at companies such as Morgan Stanley, Amadeus Software Labs, and J.P. Morgan Chase. I have a strong foundation in computer science principles and a broad range of technical skills. I am passionate about using technology to improve people's lives and am dedicated to continuous learning and personal growth.
 
 <!--
 **zkhan93/zkhan93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
